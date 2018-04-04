@@ -1,0 +1,16 @@
+where=''
+ProtectWhere=''
+path=[]
+pause=0
+x=-1
+y=-1
+mouseX=0
+mouseY=0
+FightDel=0
+ZeroX=0
+ZeroY=0
+Xp=6
+PlusNeed=False
+STime=0
+ZCTime=0
+XiangTime=0
